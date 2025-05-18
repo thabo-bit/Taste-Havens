@@ -35,7 +35,7 @@ Whether you're a small eatery or a large dining chain, Taste Haven provides the 
 | Tech          | Description                            |
 |---------------|----------------------------------------|
 | Java          | Core application logic                 |
-| Firebase      | Realtime database and authentication   |
+| Firebase      | Firestore database and authentication   |
 | XML / JavaFX  | UI design (Android or Desktop UI)      |
 | ViewPager2    | Tab layout for order status tabs       |
 | Firestore     | Backend database                       |
