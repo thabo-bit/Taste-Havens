@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="roles_array">
+        <item>Customer</item>
+        <item>Waiter</item>
+        <item>Chef</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>Burgers</item>
+        <item>Pizza</item>
+        <item>drinks</item>
+        <item>Dinner</item>
+        <item>Disert</item>
+
+    </string-array>
+
+    <string-array name="secutity">
+        <item>Security questions</item>
+        <item>In what city were you born?</item>
+        <item>What is the name of your favorite sports team?</item>
+        <item>What was the name of your first teacher?</item>
+        <item>What was the name of your elementary school? </item>
+        <item>What was your childhood nickname?</item>
+        <item>In what city did your parents meet?</item>
+        <item>What is the name of the street you grew up on?</item>
+        <item>What is the name of the hospital where you were born?</item>
+
+    </string-array>
+
+</resources>

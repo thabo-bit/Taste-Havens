@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "59082757569",
+    "firebase_url": "https://taste-haven-data-default-rtdb.firebaseio.com",
+    "project_id": "taste-haven-data",
+    "storage_bucket": "taste-haven-data.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59082757569:android:9be6103197316c32d24b40",
+        "android_client_info": {
+          "package_name": "com.example.tastehaven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59082757569-np9l37mqle4s5l98koc303u9kgr0niun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNa1_h24nuIeZQZf9l-Yh5wFeYk1gmqQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59082757569-np9l37mqle4s5l98koc303u9kgr0niun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59082757569:android:17aea72272020aa0d24b40",
+        "android_client_info": {
+          "package_name": "com.example.tastehaven2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59082757569-np9l37mqle4s5l98koc303u9kgr0niun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNa1_h24nuIeZQZf9l-Yh5wFeYk1gmqQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59082757569-np9l37mqle4s5l98koc303u9kgr0niun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59082757569:android:d8ead1cfc8a4daa7d24b40",
+        "android_client_info": {
+          "package_name": "com.example.tastehavens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59082757569-np9l37mqle4s5l98koc303u9kgr0niun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNa1_h24nuIeZQZf9l-Yh5wFeYk1gmqQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59082757569-np9l37mqle4s5l98koc303u9kgr0niun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

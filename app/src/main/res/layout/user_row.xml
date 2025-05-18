@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageButton
+        android:id="@+id/backButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@android:drawable/ic_menu_revert"
+        android:contentDescription="Back"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:layout_margin="10dp" />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableLayout
+                android:id="@+id/userTable"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:stretchColumns="*"
+                android:padding="10dp">
+
+
+                <TableRow android:background="@drawable/table_row_border">
+                    <TextView android:text="Name" android:textStyle="bold" android:padding="8dp" android:background="@drawable/cell_border"/>
+                    <TextView android:text="Email" android:textStyle="bold" android:padding="8dp" android:background="@drawable/cell_border"/>
+                    <TextView android:text="Amount" android:textStyle="bold" android:padding="8dp" android:background="@drawable/cell_border"/>
+                    <TextView android:text="Orders" android:textStyle="bold" android:padding="8dp" android:background="@drawable/cell_border"/>
+                    <TextView android:text="Reservation" android:textStyle="bold" android:padding="8dp" android:background="@drawable/cell_border"/>
+                    <TextView android:text="Action" android:textStyle="bold" android:padding="8dp" android:background="@drawable/cell_border"/>
+                </TableRow>
+
+            </TableLayout>
+        </HorizontalScrollView>
+    </ScrollView>
+</LinearLayout>
